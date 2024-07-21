@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ostunat.github.io/sitemap
+Sitemap: https://ostunat.github.io/app/sitemap
+Sitemap: https://ostunat.github.io/assets/sitemap
+Sitemap: https://ostunat.github.io/css/sitemap
+Sitemap: https://ostunat.github.io/includes/sitemap
+Sitemap: https://ostunat.github.io/item/sitemap
+Sitemap: https://ostunat.github.io/src/sitemap
